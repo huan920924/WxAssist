@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">微信助手</string>
+    <string name="accessibility_description">开启辅助功能才可以使用微信自动回复</string>
+    <string name="device_des">将设备注册为设备管理器将有效避免设备后台运行时被杀死的可能，这里我们没有启用任何危险权限，</string>
+    <string name="device_label">微信助手</string>
+
+</resources>
